@@ -171,8 +171,8 @@
   <section id="contact">
     <h2>Contact Us</h2>
     <p>📍 Yumbe District, Uganda</p>
-    <p>📧 your@email.com</p>
-    <p>📞 +256-XXX-XXX-XXX</p>
+    <p>📧 mosesbida0922@gmail.com.com</p>
+    <p>📞 +256-760-736-130</p>
   </section>
 
   <footer>
